@@ -1,6 +1,8 @@
 # ocaml-raytrace
 Raytracer written in ocaml
 
+![img](rot-large.gif)
+
 ## Build
 
 ```
